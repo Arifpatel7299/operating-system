@@ -1,0 +1,25 @@
+Enter no. of process
+3
+Enter time Quantum
+4
+Enter Burst Time of  Process
+5 6 4
+Avg tat = 13
+Avg wt = 8
+Avg tat = 28
+Avg wt = 17
+Avg tat = 40
+Avg wt = 25
+Wt is   tat is
+   8   13
+   9   15
+   8   12
+
+
+Avg Turn around time is = 13.3333
+Avg Waiting time is =8.33333
+
+--------------------------------
+Process exited after 15.21 seconds with return value 0
+Press any key to continue . . .
+
