@@ -1,0 +1,16 @@
+Enter no. of processes 4
+
+Enter Burst time or Execution time of processes 3 6 4 2
+
+TAT is  WT is
+2        0
+5        2
+9        5
+15        9
+
+Average TAT is =7.75
+Average WT is =4
+
+--------------------------------
+Process exited after 41.77 seconds with return value 0
+Press any key to continue . . .
