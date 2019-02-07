@@ -1,0 +1,20 @@
+enter your choice 1.produce 2.consume 3.exit
+1
+enter the data
+2
+enter your choice 1.produce 2.consume 3.exit
+2
+data is 2
+enter your choice 1.produce 2.consume 3.exit
+1
+enter the data
+3
+enter your choice 1.produce 2.consume 3.exit
+2
+data is 3
+enter your choice 1.produce 2.consume 3.exit
+3
+
+--------------------------------
+Process exited after 19.54 seconds with return value 0
+Press any key to continue . . .
