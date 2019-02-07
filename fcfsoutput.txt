@@ -1,3 +1,4 @@
+#FCFS output::
 Enter no. of processes
 
 4
