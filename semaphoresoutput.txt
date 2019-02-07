@@ -1,3 +1,4 @@
+#SEMAPHORES output::
 enter your choice 1.produce 2.consume 3.exit
 1
 enter the data
