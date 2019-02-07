@@ -24,7 +24,7 @@ complimation time    waiting time      turn around time
 21                  0                       3
 
 average tat        avgwt[i]
-   
+   6.25              1.5
 --------------------------------
 Process exited after 98.81 seconds with return value 0
 Press any key to continue . . .
