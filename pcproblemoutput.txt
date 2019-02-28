@@ -1,0 +1,158 @@
+run:
+buffer is empty Added Item1 remove Item[] Added Item2 remove Item[]buffer is empty
+Added Item3 Added Item4 remove Item[4] remove Item[] buffer is empty Added Item5
+Added Item6 remove Item[6] remove Item[] Added Item7 remove Item[] Added Item8
+remove Item[]
+buffer is empty
+Added Item9
+remove Item[]
+buffer is empty
+Added Item10
+Added Item11
+remove Item[11]
+Added Item12
+remove Item[12]
+Added Item13
+remove Item[13]
+Added Item14
+remove Item[14]
+Added Item15
+Added Item16
+remove Item[15, 16]
+remove Item[16]
+remove Item[]
+buffer is empty
+Added Item17
+remove Item[]
+Added Item18
+Added Item19
+remove Item[19]
+Added Item20
+remove Item[20]
+Added Item21
+Added Item22
+Added Item23
+Added Item24
+remove Item[21, 22, 23, 24]
+Added Item25
+Added Item26
+Added Item27
+remove Item[22, 23, 24, 25, 26, 27]
+remove Item[23, 24, 25, 26, 27]
+remove Item[24, 25, 26, 27]
+Added Item28
+Added Item29
+remove Item[25, 26, 27, 28, 29]
+remove Item[26, 27, 28, 29]
+Added Item30
+remove Item[27, 28, 29, 30]
+Added Item31
+remove Item[28, 29, 30, 31]
+Added Item32
+Added Item33
+remove Item[29, 30, 31, 32, 33]
+remove Item[30, 31, 32, 33]
+remove Item[31, 32, 33]
+remove Item[32, 33]
+Added Item34
+Added Item35
+remove Item[33, 34, 35]
+remove Item[34, 35]
+remove Item[35]
+Added Item36
+Added Item37
+remove Item[36, 37]
+Added Item38
+remove Item[37, 38]
+Added Item39
+Added Item40
+remove Item[38, 39, 40]
+remove Item[39, 40]
+Added Item41
+Added Item42
+remove Item[40, 41, 42]
+remove Item[41, 42]
+remove Item[42]
+remove Item[]
+buffer is empty
+Added Item43
+remove Item[]
+buffer is empty
+Added Item44
+remove Item[]
+Added Item45
+Added Item46
+Added Item47
+Added Item48
+remove Item[46, 47, 48]
+remove Item[47, 48]
+remove Item[48]
+remove Item[]
+buffer is empty
+Added Item49
+Added Item50
+remove Item[50]
+Added Item51
+remove Item[51]
+Added Item52
+remove Item[52]
+Added Item53
+remove Item[53]
+Added Item54
+remove Item[54]
+remove Item[]
+buffer is empty
+Added Item55
+remove Item[]
+Added Item56
+Added Item57
+remove Item[57]
+Added Item58
+Added Item59
+remove Item[58, 59]
+remove Item[59]
+Added Item60
+Added Item61
+remove Item[60, 61]
+Added Item62
+remove Item[61, 62]
+Added Item63
+remove Item[62, 63]
+Added Item64
+Added Item65
+remove Item[63, 64, 65]
+Added Item66
+remove Item[64, 65, 66]
+remove Item[65, 66]
+Added Item67
+Added Item68
+remove Item[66, 67, 68]
+Added Item69
+remove Item[67, 68, 69]
+Added Item70
+remove Item[68, 69, 70]
+Added Item71
+remove Item[69, 70, 71]
+remove Item[70, 71]
+Added Item72
+remove Item[71, 72]
+Added Item73
+remove Item[72, 73]
+Added Item74
+Added Item75
+Added Item76
+remove Item[73, 74, 75, 76]
+remove Item[74, 75, 76]
+remove Item[75, 76]
+Added Item77
+Added Item78
+remove Item[76, 77, 78]
+remove Item[77, 78]
+Added Item79
+remove Item[78, 79]
+Added Item80
+remove Item[79, 80]
+Added Item81
+remove Item[80, 81]
+remove Item[81]
+remove Item[]
