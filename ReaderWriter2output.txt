@@ -1,0 +1,22 @@
+run:
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Parent thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+Child thread
+BUILD SUCCESSFUL (total time: 0 seconds)
