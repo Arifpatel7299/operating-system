@@ -1,0 +1,22 @@
+run:
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+Main thread
+My thread
+My thread
+My thread
+My thread
+My thread
+My thread
+My thread
+My thread
+My thread
+My thread
+BUILD SUCCESSFUL (total time: 0 seconds)
