@@ -1,0 +1,24 @@
+No. of processes 3
+No. of blocks in memory 4
+Enter process size 10
+2
+4
+Enter size of memory blocks
+1. For Used
+ 2. For hole
+1
+3
+4
+5
+6
+7
+9
+8
+Starting addresses are
+For p1 0
+For p2 0
+For p3 0
+
+--------------------------------
+Process exited after 34.04 seconds with return value 0
+Press any key to continue . . .
